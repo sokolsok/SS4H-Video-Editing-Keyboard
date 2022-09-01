@@ -1,0 +1,2 @@
+../Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.c:83:19:HAL_TIMEx_MasterConfigSynchronization	24	static
+../Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.c:194:19:HAL_TIMEx_RemapConfig	16	static

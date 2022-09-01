@@ -1,0 +1,6 @@
+../Core/Src/keys.c:91:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/keys.c:140:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/keys.c:211:6:Set_Col_LOW	16	static
+../Core/Src/keys.c:274:15:Read_Row	16	static
+../Core/Src/keys.c:301:9:Scan_Routine	24	static
+../Core/Src/keys.c:415:6:HID_Buf_Routine	4	static

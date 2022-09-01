@@ -1,0 +1,3 @@
+../Core/Src/knob.c:42:6:LEDS_Toggle	16	static
+../Core/Src/knob.c:70:6:KnobRoutine	8	static
+../Core/Src/knob.c:169:6:Shuttle_mode_Routine	4	static

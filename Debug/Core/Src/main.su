@@ -1,0 +1,6 @@
+../Core/Src/main.c:77:5:main	8	static
+../Core/Src/main.c:174:6:SystemClock_Config	80	static
+../Core/Src/main.c:215:6:LongPress_Routine	4	static
+../Core/Src/main.c:335:6:LED_Routine	8	static
+../Core/Src/main.c:346:6:KnobModeLED	16	static
+../Core/Src/main.c:374:6:Error_Handler	4	static,ignoring_inline_asm
